@@ -16,8 +16,6 @@
 
 -->
 
-[![Build Status](https://travis-ci.com/joshk0/terraorg.svg?token=KqPPGKhNmsFv3uhyxvvf&branch=master)](https://travis-ci.com/joshk0/terraorg)
-
 ---
 
 *⚠️ This project was developed at LiveRamp, but is no longer the canonical home
